@@ -48,7 +48,6 @@ These text editors can all be downloaded and installed to your computer from the
 
 ## The Difference Between Text Editors and IDEs.
 A text editor kind of gives away what it does in the title — it edits text. It also manages text, and manages files. I love that name “text wrangler” because in a way that’s what really a text editor does. It wrangles your text together into something meaningful.
-<<<<<<< HEAD
 An IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
 
 ## every thing is a file
@@ -69,4 +68,4 @@ In linux **space** and **capital letter** can make a difference.
 To make a file or directory hidden all you need to do is create the file or directory with it's name beginning with a ** "." **or rename it to be as such. Likewise you may rename a hidden file to remove the **"."** and it will become unhidden.
 =======
 An IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
->>>>>>> 13031cfcc4e6744bb1cc387bba60ba6610d8e416
+
