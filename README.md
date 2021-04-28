@@ -21,8 +21,13 @@
 |[Read 9](read9.md)|
 
 
-|Reading Notes 201|
+|Code 201 Reading Notes|
 |-------------|
+|[Read 01 /201](read01.md)|
+|[Read 02/201](read02.md)|
+|[Read 03/201](read03.md)|
+|[Read 04/201](read04.md)|
+
 
 
 
