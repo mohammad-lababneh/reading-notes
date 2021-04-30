@@ -1,21 +1,4 @@
 
-<!-- 
-Bravo Mohammed, 
-well done ^_^
-
-*But you need to read more about these chapters  :- 
-1- HTML Chapter 17: “HTML5 Layout” (pp.428-451)
-2- HTML Chapter 18: “Process & Design” (pp.452-475)
-
-*You missed adding the repo link :-
-(Very very important note :- There's no need to create a new repo you should continue using the 102 "reading-notes" repo and just you need to add a new table to it under the 102 table with this title "201 Reading Notes").
-
-So, I'm looking forward to your resubmission Mohammed.
-please do it ASAP and let me know when you are done with it.
-
-Wish you the best of luck. -->
-
-
 # HTML 
 
 ## chapter 1
@@ -128,6 +111,72 @@ it is convenient for woman or men ? or both of thim ?
 they are looking for Design theory for presenting information in a way that helps visitors achieve their goals.
 Design tips to help you create more attractive and
 professional sites.
+
+
+##### Who is the Site For?
+Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
+
+##### Target Audience: individuals
+`What is the age range of your target audience?`
+ Will your site appeal to more women or men? What is the mix?
+ `Which country do your visitors live in?`
+ Do they live in urban or rural areas?
+`What is the average income of visitors?`
+ What level of education do they have?
+ `What is their marital or family status?`
+What is their occupation?
+ `How many hours do they work per week?`
+ How often do they use the web?
+ `What kind of device do they use to access the web?`
+
+##### What Your Visitors are Trying to Achieve
+It is unlikely that you will be able to list every reason why someone visits your site but you are looking for key tasks and motivations. This information can help guide your site designs.
+
+
+##### What Information Your Visitors Need
+You know who is coming to your site and why they are coming, so now you need to work out what information they need in order to achieve their goals quickly and effectively.
+
+##### How Of ten People Will Visit Your Site
+Some sites benefit from being updated more frequently than others. Some information (such as news) may be constantly changing, while other content remains relatively static.
+
+##### WireFrames
+A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+
+##### Getting your message across using design
+The primary aim of any kind of visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
+
+##### Visual hierarchy
+Most web users do not read entire pages. Rather, they skim to find information. You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for.
+
+### Designing Navigation 
+Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized.
+Good navigation tends to follow these principles.
+
+###### Concise
+Ideally, the navigation should be quick and easy to read. It is a good idea to try to limit the
+number of options in a menu to no more than eight links. These
+can link to section homepages which in turn link to other pages.
+###### Clear
+Users should be able to predict the kind of information that
+they will find on the page before clicking on the link.
+Where possible, choose single descriptive words for each link
+rather than phrases.
+###### Selective
+The primary navigation should only reflect the sections or
+content of the site. Functions like logins and search, and legal information like terms and conditions and so on are best
+placed elsewhere on the page.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # JAVASCRIPT 
