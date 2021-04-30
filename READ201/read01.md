@@ -86,9 +86,9 @@ a page. The reason is that anything that lies outside of the
 the main content.
 
 ### Linking Around Block-Level El ements
-HTML5 allows web page authors to place an `<a> `element around a block level element that contains child elements. This allows you to turn an entire block
+HTML5 allows web page authors to place an `a` element around a block level element that contains child elements. This allows you to turn an entire block
 into a link. This is not a new element in
-HTML5, but it was not seen as a correct usage of the `<a> `element in earlier versions of HTML.
+HTML5, but it was not seen as a correct usage of the `a` element in earlier versions of HTML.
 
 ### Helping Ol der Browsers Understand
 Older browsers that do not know the new HTML5 elements
