@@ -74,15 +74,15 @@ set of one or more` <h1> `through `<h6>` elements so that they are treated as on
 
 ### Sectioning Elements
 It may seem strange to follow these new elements by revisiting
-the `<div> ` element again. (After all, the new elements are often going to be used in its place.)
-However, the` <div> `element will remain an important way to
+the **div** element again. (After all, the new elements are often going to be used in its place.)
+However, the **div** element will remain an important way to
 group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated.
 Where there is no suitable element to group a set of
-elements, the` <div> `element will still be used. In this example, it is used as a wrapper for the entire
+elements, the` **div** element will still be used. In this example, it is used as a wrapper for the entire
 page. Some people have asked why
-there is no `<content>` element to contain the main part of
+there is no **content** element to contain the main part of
 a page. The reason is that anything that lies outside of the
-`<header>, <footer> or <aside>` elements can be considered as
+**header**, **footer** or **aside** elements can be considered as
 the main content.
 
 ### Linking Around Block-Level El ements
