@@ -80,9 +80,9 @@ group together related elements, because you should not be using these new eleme
 Where there is no suitable element to group a set of
 elements, the` <div> `element will still be used. In this example, it is used as a wrapper for the entire
 page. Some people have asked why
-there is no` <content> element to contain the main part of
+there is no `<content>` element to contain the main part of
 a page. The reason is that anything that lies outside of the
-<header>, <footer> or <aside> elements can be considered as
+`<header>, <footer> or <aside>` elements can be considered as
 the main content.
 
 ### Linking Around Block-Level El ements
