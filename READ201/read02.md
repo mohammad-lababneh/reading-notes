@@ -1,3 +1,5 @@
+
+
 # HTML 
 ## Capter 2
 ### Headings
@@ -126,6 +128,50 @@ This can help you and others who read
 data in variables.
 you can declear variables using var command,  and you can assign ther command by using = .
 USING A VARIABLE TO STORE A STRING by using '' & "".
+
+
+## chapter 4 DECISIONS & LOOPS 
+
+<blockquote>Looking at a flowchart (for all but the most basic scripts),
+the code can take more than one path, which means the
+browser runs different code in different situations. In this
+chapter, you will learn how to create and control the flow of
+data in your scripts to handle different situations.
+</blockquote>
+
+#### COMPARISON OPERARTORS: EVALUATING CONDITIONS
+
+###### you can evaluat a situation by combaring one value to a nother using these operators:
+is equal to **==**
+is not equal to **!=**
+strict equal to **===**
+strict not equal to **!==**
+
+###### you can chick the condition by using these operators:
+greater than **>**
+less than**<**
+greater than or equal **>=**
+less than or equal **<=**
+
+### logica operators allow you to compair the results of more than comparision operator.
+logical AND **&&**
+logical OR **||**
+ logical NOT **!**
+
+
+
+### IF ... ELSE STATEMENTS
+
+if .. else statement check the condition.
+if the condition is true if will run the statement that inside it . if the coondition is false it will go to else statement.
+
+
+
+
+
+
+
+
 
 
 
