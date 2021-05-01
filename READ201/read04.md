@@ -245,7 +245,8 @@ content can flow.
 
 
 # JAVASCRIPT
-![image](functions.png);
+
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKXEPtuKHhrUBeYgffURdG09fsgEXBhosjCQ&usqp=CAU):
 ## CHAPTER 3 FUNCTIONS, METHODS & OBJECTS
 
 
