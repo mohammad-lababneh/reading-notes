@@ -245,7 +245,7 @@ content can flow.
 
 
 # JAVASCRIPT
-|[js function](functions.png)|
+![image](functions.png);
 ## CHAPTER 3 FUNCTIONS, METHODS & OBJECTS
 
 
