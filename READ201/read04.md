@@ -1,27 +1,4 @@
 
-<!-- Hello Mohammed ,
-
-Please pay attention to my notes in your submissions 🙏
-I want to help you to reach the full mark but I need your effort to achieve that.
-
-Very very important note :-
- 
-*There's no need to create a new repo you should continue using the 102 "reading-notes" repo and just you need to add a new table to it under the 102 table with this title "code 201 Reading Notes").
-
-You should solve this issue ASAP Mohammed 🙏.
-
-*But, for the Reads , the second link should be the live URL of the home page not the link of the repo (For the labs just we put the repo link).
-
-And , Well done Mohammad your read is very good 👍
-you covered everything which is great.
-
-*Just please try to add (images/lists/etc) to empower your read. 
-
-So, I'm looking forward to your resubmission Mohammad.
-please do it ASAP and let me know when you are done with it.
-
-Wish you the best of luck. -->
-
 # HTML
 ## chapter 4 links 
 
