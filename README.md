@@ -35,3 +35,10 @@
 |[Read 11/201](READ201/read11.md)|
 |[Read 12/201](READ201/read12.md)|
 |[Read 13/201](READ201/read13.md)|
+
+|Code 301 Reading Notes|
+|-------------|
+|Intermediate Software Development|
+|[Read01/301](READ301/read01.md)|
+|[Read02/301](READ301/read02.md)|
+|[Read03/301](READ301/read03.md)|
