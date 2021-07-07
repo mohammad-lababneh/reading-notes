@@ -20,4 +20,13 @@ React lets you define components as classes or functions. The methods that you a
 
 
 ## **Hybrid Flow**
-Applications that are able to securely store Client Secrets may benefit from the use of the Hybrid Flow, which combines features of the Authorization Code Flow and Implicit Flow with Form Post to allow your application to have immediate access to an ID token while still providing for secure and safe retrieval of access and refresh tokens. This can be useful in situations where your application needs to immediately access information about the user, but must perform some processing before gaining access to protected resources for an extended period of time. The Hybrid Flow is an OpenID Connect flow which incorporates characteristics of both the Implicit flow and the Authorization Code flow. It enables clients to obtain some tokens straight from the Authorization Endpoint, while still having the possibility to get others from the Token Endpoint.
+Applications that are able to securely store Client Secrets may benefit from the use of the Hybrid Flow `(defined in section 3.3 of the OIDC spec)`, which allows your application to have immediate access to an ID token while still providing for secure and safe retrieval of access and refresh tokens. This can be useful in situations where your application needs to immediately access information about the user, but must perform some processing before gaining access to protected resources for an extended period of time.
+
+
+
+#### What Is Node.js Used For?
+Maybe you are a Node.js developer, JavaScript community veteran, passionate supporter, or generally into modern software development. Or perhaps you want to learn how to be more productive with various tools that successful Node.js professionals are using. Either way, you’ve come to the right place.
+
+In this blog series, we will go over the most important categories of tools that are closely related to all aspects of successful nodestering—from development environments, frameworks, and test and build tools to continuous integration, delivery, and monitoring. So, without further ado, let’s start our journey through the world of Node.js tools.
+
+Disclaimer:  You will probably notice that the tools showcased are a bit pro-backend or DevOps-oriented. I apologize for that, but keep in mind that many of the tools and their applications go beyond just backend/frontend/desktop/mobile: Their purpose is to build good quality software in general.
